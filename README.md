@@ -11,16 +11,7 @@ Scope:
 The scope of the security audit is limited to basic security concepts and practices applicable to small businesses or beginner-level scenarios. The report provides a high-level assessment of the company's security program, with a focus on identifying common vulnerabilities and recommending simple, practical solutions.
 
 Key Features:
-&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&&
-3717 548672 74006
-1029
-3646
-$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
-3717 548672 74006
-401 E 60th St Apt 36C
-+3129537661
-sudhin.roy@kineticadvisors.com
-B_17216554
+
 Basic assessment of assets and security controls.
 Identification of common security risks and vulnerabilities.
 Simple recommendations for improving security posture.
